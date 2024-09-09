@@ -13,3 +13,8 @@ C:\Users\j02\Documents\Eduardo Gomes\Logica de programação\c#\lista de exercec
 C:\Users\j02\Documents\Eduardo Gomes\Logica de programação\c#\lista de exercecio 4\qt4\obj\Debug\net8.0\QT4.pdb
 C:\Users\j02\Documents\Eduardo Gomes\Logica de programação\c#\lista de exercecio 4\qt4\obj\Debug\net8.0\QT4.genruntimeconfig.cache
 C:\Users\j02\Documents\Eduardo Gomes\Logica de programação\c#\lista de exercecio 4\qt4\obj\Debug\net8.0\ref\QT4.dll
+C:\Users\j02\Documents\Eduardo Gomes\Logica de programação\c#\lista de exercecio 4\qt4\build\QT4.exe
+C:\Users\j02\Documents\Eduardo Gomes\Logica de programação\c#\lista de exercecio 4\qt4\build\QT4.deps.json
+C:\Users\j02\Documents\Eduardo Gomes\Logica de programação\c#\lista de exercecio 4\qt4\build\QT4.runtimeconfig.json
+C:\Users\j02\Documents\Eduardo Gomes\Logica de programação\c#\lista de exercecio 4\qt4\build\QT4.dll
+C:\Users\j02\Documents\Eduardo Gomes\Logica de programação\c#\lista de exercecio 4\qt4\build\QT4.pdb

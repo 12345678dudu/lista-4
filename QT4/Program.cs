@@ -65,6 +65,17 @@ class Program
                     Console.WriteLine("Resgate falhou");
                 }
             }
+             else 
+            {
+                   if(energia>50)
+                {
+                Console.WriteLine("Resgate bem sucedido");
+                }
+                else 
+                {
+                    Console.WriteLine("Resgate falhou");
+                }
+            }
            
         }
 
@@ -82,9 +93,20 @@ class Program
                     Console.WriteLine("Resgate falhou");
                 }
             }
+             else 
+            {
+                   if(energia>50)
+                {
+                Console.WriteLine("Resgate bem sucedido");
+                }
+                else 
+                {
+                    Console.WriteLine("Resgate falhou");
+                }
+            }
         }
 
-        else if (ameaca == "cajado")
+        else if (ameaca == "alto")
         {energia-=20;
              if(aliado<20)
             {
@@ -93,7 +115,18 @@ class Program
                 {
                 Console.WriteLine("Resgate bem sucedido");
                 }
-                else
+                else 
+                {
+                    Console.WriteLine("Resgate falhou");
+                }
+            }
+            else 
+            {
+                   if(energia>50)
+                {
+                Console.WriteLine("Resgate bem sucedido");
+                }
+                else 
                 {
                     Console.WriteLine("Resgate falhou");
                 }
